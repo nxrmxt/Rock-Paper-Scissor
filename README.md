@@ -9,8 +9,6 @@ Welcome to the exciting world of [Rock Paper Scissor], a console-based game that
 - [Introduction](#introduction)
 - [Features](#features)
 - [Installation](#installation)
-
-- 
 - [Contributing](#contributing)
 - [License](#license)
 
